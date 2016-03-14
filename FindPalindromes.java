@@ -1,5 +1,4 @@
-// JK3466
-// JULIETTE KANG
+
 // FindPalinedromes.java -- this class will read an input file, see if the lines of that file are palindromes, then create an output file called "foundpalindromes.txt" that will print out all the discovered palindromes. 
 
 
