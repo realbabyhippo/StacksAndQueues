@@ -9,10 +9,10 @@ The 4 class files are:
 	3) Program2.java 
 	4) TwoStackQueue.java
 
-The 3 text files are:
-	1) Written.txt (written HW questions)
-	2) Program2.txt (analysis of TwoStackQueue operations)
-	3) this file: README.txt
+The 2 text files are:
+	1) README.txt
+	2) Palindromes.txt (a list fo palindromes to test)
+
 
 You can compile all these files by typing in:	<javac CLASSNAME.java> 
 and you can run these files by typing in: < java CLASSNAME > 
