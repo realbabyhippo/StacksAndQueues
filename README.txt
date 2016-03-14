@@ -6,7 +6,7 @@ In this submission there are 4 classes files and 3 text files.
 The 4 class files are: 
 	1) MyStack.java
 	2) FindPalindromes.java
-	3) Program2.java 
+	3) TwoStackQueueTester.java 
 	4) TwoStackQueue.java
 
 The 2 text files are:
@@ -46,6 +46,6 @@ This class file:
 
 	3)creates a dequeue method which transfers the items from the first stack to the second stack through push/pop methods, then pops and returns the item at the top of the second stack. 
 
-PROGRAM2.JAVA
+TwoStackQueueTester.JAVA
 This class tests the methods that were written in the TwoStackQueue class. It first creates an ArrayList of Strings of people’s names. Then it creates a TwoStackQueue object as originally constructed in the TwoStackQueue class and implements the enqueue and the dequeue methods from the TwoStackQueue class to fill the queue with these names. These elements are queued in such a way that will ultimately place them in alphabetical order. It creates strings from the returned values after items are popped from stack2. This class also employs a for-loop to go through the queue, dequeue the elements and concatenate the return values (names) to the String output, which is what is ultimately printed to the user.
 
