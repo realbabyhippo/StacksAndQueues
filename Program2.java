@@ -1,5 +1,4 @@
 // Juliette Kang
-// JK3466
 // Program2.java - tester class with a main method to demonstrate that your TwoStackQueue works correctly and will alphabetize names from an ArrayList 
 
 import java.util.ArrayList;
